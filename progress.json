@@ -1,0 +1,11 @@
+{
+  "stages": [
+    { "name": "Derivations: invariants, trapping boundary, banana width", "status": "active", "note": "working through notes/derivations.md" },
+    { "name": "Field model and Boris full-orbit pusher", "status": "planned" },
+    { "name": "Trapped vs passing orbits, checked against theory", "status": "planned" },
+    { "name": "Guiding-centre code", "status": "planned" },
+    { "name": "First-orbit losses of 3.5 MeV alphas", "status": "planned" },
+    { "name": "Comparison with published TFTR losses", "status": "planned" },
+    { "name": "Shaped ITER-like equilibrium", "status": "planned" }
+  ]
+}
